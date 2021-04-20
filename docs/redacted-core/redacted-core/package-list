@@ -1,0 +1,16 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.chrynan.redacted.core////PointingToDeclaration/redacted-core/com.chrynan.redacted.core/index.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty///PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-redacted-property/index.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/RedactedProperty/#TypeParam(bounds=[kotlin.Any?])#kotlin.String#com.chrynan.redacted.core.RepeatCount/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-redacted-property/-redacted-property.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/equals/#kotlin.Any?/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-redacted-property/equals.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/hashCode/#/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-redacted-property/hash-code.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/toString/#/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-redacted-property/to-string.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/value/#/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-redacted-property/value.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Exact///PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-repeat-count/-exact/index.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Exact/Exact/#kotlin.Int/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-repeat-count/-exact/-exact.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Exact/count/#/PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-repeat-count/-exact/count.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.MatchLength///PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-repeat-count/-match-length/index.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount///PointingToDeclaration/redacted-core/com.chrynan.redacted.core/-repeat-count/index.md
+com.chrynan.redacted.core
+
