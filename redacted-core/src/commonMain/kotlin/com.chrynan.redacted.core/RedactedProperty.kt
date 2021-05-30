@@ -40,4 +40,6 @@ class RedactedProperty<T>(
             }
         }
     }
+
+    companion object
 }

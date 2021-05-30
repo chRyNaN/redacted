@@ -4,6 +4,7 @@ apply plugin: "kotlin-multiplatform"
 apply plugin: "maven-publish"
 apply plugin: "org.jetbrains.dokka"
 apply plugin: "com.chrynan.target.plugin"
+apply plugin: "kotlinx-serialization"
 
 group LibraryConstants.group
 version LibraryConstants.versionName
@@ -11,7 +12,10 @@ version LibraryConstants.versionName
 kotlin {
     targets {
         jvm()
-        js()
+        js(BOTH) {
+            browser()
+            nodejs()
+        }
         ios()
     }
     sourceSets {
