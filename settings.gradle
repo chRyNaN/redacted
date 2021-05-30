@@ -1,4 +1,3 @@
 rootProject.name = "redacted"
 
 include ":redacted-core"
-include ":redacted-serialization"

@@ -23,6 +23,9 @@ kotlin {
         commonMain {
             dependencies {
                 implementation "org.jetbrains.kotlin:kotlin-stdlib-common"
+
+                // Kotlinx Serialization
+                implementation "org.jetbrains.kotlinx:kotlinx-serialization-json:1.2.1"
             }
         }
     }
