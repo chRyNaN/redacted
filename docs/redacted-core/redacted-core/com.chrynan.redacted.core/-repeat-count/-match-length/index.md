@@ -1,7 +1,6 @@
 //[redacted-core](../../../../index.md)/[com.chrynan.redacted.core](../../index.md)/[RepeatCount](../index.md)/[MatchLength](index.md)
 
+# MatchLength
 
-
-# MatchLength  
- [common] object [MatchLength](index.md) : [RepeatCount](../index.md)   
-
+[common]\
+object [MatchLength](index.md) : [RepeatCount](../index.md)

@@ -1,0 +1,24 @@
+$dokka.format:gfm-v1
+$dokka.linkExtension:md
+$dokka.location:com.chrynan.redacted.core////PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/index.md
+$dokka.location:com.chrynan.redacted.core//serializer/com.chrynan.redacted.core.RedactedProperty.Companion#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/serializer.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty.Companion///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/-companion/index.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/index.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/RedactedProperty/#TypeParam(bounds=[kotlin.Any?])#kotlin.String#com.chrynan.redacted.core.RepeatCount/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/-redacted-property.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/equals/#kotlin.Any?/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/equals.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/hashCode/#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/hash-code.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/toString/#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/to-string.md
+$dokka.location:com.chrynan.redacted.core/RedactedProperty/value/#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property/value.md
+$dokka.location:com.chrynan.redacted.core/RedactedPropertyEncoder///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property-encoder/index.md
+$dokka.location:com.chrynan.redacted.core/RedactedPropertyEncoder/RedactedPropertyEncoder/#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property-encoder/-redacted-property-encoder.md
+$dokka.location:com.chrynan.redacted.core/RedactedPropertyEncoder/descriptor/#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property-encoder/descriptor.md
+$dokka.location:com.chrynan.redacted.core/RedactedPropertyEncoder/deserialize/#kotlinx.serialization.encoding.Decoder/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property-encoder/deserialize.md
+$dokka.location:com.chrynan.redacted.core/RedactedPropertyEncoder/serialize/#kotlinx.serialization.encoding.Encoder#com.chrynan.redacted.core.RedactedProperty[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-redacted-property-encoder/serialize.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Companion///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-repeat-count/-companion/index.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Exact///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-repeat-count/-exact/index.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Exact/Exact/#kotlin.Int/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-repeat-count/-exact/-exact.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.Exact/count/#/PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-repeat-count/-exact/count.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount.MatchLength///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-repeat-count/-match-length/index.md
+$dokka.location:com.chrynan.redacted.core/RepeatCount///PointingToDeclaration/redacted-core/redacted-core/com.chrynan.redacted.core/-repeat-count/index.md
+module:redacted-core
+com.chrynan.redacted.core

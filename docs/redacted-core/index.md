@@ -1,13 +1,9 @@
 //[redacted-core](index.md)
 
+# redacted-core
 
+## Packages
 
-# redacted-core  
-
-
-## Packages  
-  
-|  Name | 
+| Name |
 |---|
-| <a name="com.chrynan.redacted.core////PointingToDeclaration/"></a>[com.chrynan.redacted.core](redacted-core/com.chrynan.redacted.core/index.md)|
-
+| [com.chrynan.redacted.core](redacted-core/com.chrynan.redacted.core/index.md) |
